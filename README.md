@@ -17,8 +17,7 @@
 - Bridge
 - HTML
 - XML
-- CSS
-- JQuery
+
 
 設計能力
 
